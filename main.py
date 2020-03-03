@@ -8,6 +8,7 @@ print("we need to use the end argument, ", end="") #end is just the line of text
 print("so we continue on the same line", end="(end can be whatever we want). ")
 print("Pretty cool, yes?")
 print ("Monica esta aprendiendo a programar")
+print (hello, is 10 greater than 7? the answer is: " yes")
 # print can also print expressions
 print(2+4)
 print("the value of 2+5 is ", 2+5)
